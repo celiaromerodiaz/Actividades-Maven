@@ -1,3 +1,5 @@
+package com.politecnico;
+
 public class Copyright {
 
     public String getText()
@@ -10,5 +12,4 @@ public class Copyright {
                 "        You should have received a copy of the XYZ license with\n" +
                 "        this file. If not, please visit : http://www.github.com/";
     }
-
 }
